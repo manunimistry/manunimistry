@@ -1,6 +1,6 @@
 ## Hi there I am Manuni Mistry👋
 
-I'm a passionate software developer and blockchain enthusiast with a knack for solving complex problems and creating innovative solutions.Hi there! I'm a passionate developer focused on building creative solutions using React.js, Solidity, Python, and JavaScript. Explore my projects and reach out for potential collaborations!
+Hi there! I'm a passionate developer focused on building creative solutions using React.js, Solidity, Python, and JavaScript. Explore my projects and reach out for potential collaborations!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manuni-mistry-2109bb14a/)
 - 📧 [Email](manunim.3011@gmail.com)
