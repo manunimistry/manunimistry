@@ -8,8 +8,8 @@ Hi there! I'm a passionate developer focused on building creative solutions usin
 ## Skills
 
 **Languages**: JavaScript, Python, Solidity
-**Frameworks**: React, Node.js, Django
-**Blockchain**: Ethereum, Hyperledger, Smart Contracts
+**Frameworks**:Foundry, Hardhat, Node.js, Django
+**Blockchain**: Ethereum, Smart Contracts
 **Databases**: MySQL 
 
 <!--
