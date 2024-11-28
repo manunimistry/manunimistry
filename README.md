@@ -7,7 +7,7 @@ Hi there! I'm a passionate developer focused on building creative solutions usin
 
 ## Skills
 
-**Languages**: JavaScript, Python, Solidity
+**Languages**: JavaScript, Python, Solidity <br>
 **Frameworks**:Foundry, Hardhat, Node.js, Django
 **Blockchain**: Ethereum, Smart Contracts
 **Databases**: MySQL 
