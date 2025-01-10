@@ -5,30 +5,33 @@ Hi there! I'm a passionate developer focused on building creative solutions usin
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manuni-mistry-2109bb14a/)
 - 📧 [Email](manunim.3011@gmail.com)
 
-Skills
-Programming Languages:
-<ol>
-  <li>Solidity</li>
-</ol>
-Solidity
-JavaScript
-Python
-Frameworks and Libraries:
-React.js
-Node.js
-Django
-Blockchain Development:
-Ethereum
-Smart Contracts
-Web Development:
-HTML
-CSS
-Tools and Platforms:
-Foundry
-Hardhat
-Databases:
-MySQL
 
+## Skills  
+
+### Programming Languages:  
+- **Solidity**  
+- **JavaScript**  
+- **Python**  
+
+### Frameworks and Libraries:  
+- **React.js**  
+- **Node.js**  
+- **Django**  
+
+### Blockchain Development:  
+- **Ethereum**  
+- **Smart Contracts**  
+
+### Web Development:  
+- **HTML**  
+- **CSS**  
+
+### Tools and Platforms:  
+- **Foundry**  
+- **Hardhat**  
+
+### Databases:  
+- **MySQL**  
 
 <!--
 **manunimistry/manunimistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
