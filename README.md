@@ -14,11 +14,13 @@ Hi there! I'm a passionate developer focused on building creative solutions usin
 - **Python**  
 
 ### Frameworks and Libraries:  
+- **Web3.js**
 - **React.js**  
 - **Node.js**  
 - **Django**  
 
 ### Blockchain Development:  
+- **XDC**
 - **Ethereum**  
 - **Smart Contracts**  
 
