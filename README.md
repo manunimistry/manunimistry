@@ -1,6 +1,6 @@
 ## Hi there I am Manuni Mistry👋
 
-Hi there! I'm a passionate developer focused on building creative solutions using React.js, Solidity, Python, and JavaScript. Explore my projects and reach out for potential collaborations!
+Blockchain Developer | Oracle Systems & Smart Contracts | MSc Blockchain Technology | Full-Stack (MERN)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manuni-mistry-2109bb14a/)
 - 📧 [Email](manunim.3011@gmail.com)
